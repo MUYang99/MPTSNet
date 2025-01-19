@@ -81,6 +81,7 @@ MPTSNet consists of several key components:
 - Multi-scale local feature extraction through inception modules
 - Attention-based global feature fusion
 - Adaptive embedding dimensions
+- Enhanced interpretability
 
 ## 📈 Results
 
@@ -88,7 +89,6 @@ Training results are saved in the `results/` directory, including:
 - Model checkpoints
 - Training logs
 - Accuracy metrics
-- Learning curves
 
 ## 🎓 Citation
 
