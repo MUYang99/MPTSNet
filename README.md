@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Quick Start
 
-The project supports various UEA time series classification datasets from [Time Series Classification Repository](https://www.timeseriesclassification.com/dataset.php). Place your dataset in the `dataset/General/` and `dataset/UEA/` directory.
+The project supports various UEA time series classification datasets from [Time Series Classification Repository](https://www.timeseriesclassification.com/dataset.php). Place your dataset in the `dataset/General/` and `dataset/UEA/` directory. For quick access to all datasets used in the paper, you can visit [this link](https://drive.google.com/drive/folders/1nV7LjhY2F084jNmE-b9aMEcXNhv6drWG?usp=sharing).
 
 Train MPTSNet:
 ```bash
