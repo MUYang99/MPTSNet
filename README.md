@@ -2,7 +2,7 @@
 MPTSNet is an implementation of the paper [*MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification*] (AAAI 2025).
 
 <p align="center">
-<img src="docs/poster.png" width="680"/>
+<img src="docs/poster.png" width="100%"/>
 </p>
 
 ## 🛠️ Setup
