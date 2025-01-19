@@ -2,7 +2,7 @@
 MPTSNet is an implementation of the paper [*MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification*] (AAAI 2025).
 
 <p align="center">
-<img src="docs/poster.pdf" width="680"/>
+<img src="docs/Poster.pdf" width="680"/>
 </p>
 
 ## 🛠️ Setup
@@ -78,10 +78,9 @@ MPTSNet consists of several key components:
 ## 📊 Key Features
 
 - Automatic period detection using FFT
-- Multi-scale feature extraction through inception modules
-- Attention-based feature fusion
+- Multi-scale local feature extraction through inception modules
+- Attention-based global feature fusion
 - Adaptive embedding dimensions
-- Early stopping and learning rate scheduling
 
 ## 📈 Results
 
