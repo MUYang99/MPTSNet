@@ -58,23 +58,6 @@ dataset/General/
     └── YOUR_DATASET_NAME_TEST.ts
 ```
 
-## 🏗️ Architecture
-
-MPTSNet consists of several key components:
-
-1. **Data Embedding Layer**
-   - Converts input time series into learnable embeddings
-   - Adaptive dimension scaling based on input channels
-
-2. **Periodic Block**
-   - Inception modules with CBAM attention for local feature extraction
-   - Window Transformer for capturing periodic patterns
-   - Global Transformer for temporal dependencies
-
-3. **Feature Fusion**
-   - FFT-based period importance weights
-   - Adaptive feature combination
-
 ## 📊 Key Features
 
 - Automatic period detection using FFT
