@@ -78,7 +78,15 @@ Training results are saved in the `results/` directory, including:
 If you use MPTSNet in your research, please cite our paper:
 
 ```bibtex
-
+@misc{mu2025mptsnetintegratingmultiscaleperiodic,
+      title={MPTSNet: Integrating Multiscale Periodic Local Patterns and Global Dependencies for Multivariate Time Series Classification}, 
+      author={Yang Mu and Muhammad Shahzad and Xiao Xiang Zhu},
+      year={2025},
+      eprint={2503.05582},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.05582}, 
+}
 ```
 
 ## 📝 License
