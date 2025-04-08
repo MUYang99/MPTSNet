@@ -12,7 +12,7 @@ MPTSNet is an implementation of the paper [*MPTSNet: Integrating Multiscale Peri
 Clone the repository:
 
 ```bash
-git clone [your-repo-url] && cd MPTSNet
+git clone https://github.com/MUYang99/MPTSNet.git && cd MPTSNet
 ```
 
 ### Installation
@@ -57,14 +57,6 @@ dataset/General/
     ├── YOUR_DATASET_NAME_TRAIN.ts
     └── YOUR_DATASET_NAME_TEST.ts
 ```
-
-## 📊 Key Features
-
-- Automatic period detection using FFT
-- Multi-scale local feature extraction through inception modules
-- Attention-based global feature fusion
-- Adaptive embedding dimensions
-- Enhanced interpretability
 
 ## 📈 Results
 
