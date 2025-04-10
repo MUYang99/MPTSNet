@@ -67,7 +67,7 @@ Training results are saved in the `results/` directory, including:
 
 ## 🎓 Citation
 
-If you use MPTSNet in your research, please cite our paper:
+If you find it's useful, please cite our paper:
 
 ```bibtex
 @misc{mu2025mptsnetintegratingmultiscaleperiodic,
